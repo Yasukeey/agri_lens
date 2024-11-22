@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center"
+    android:background="@drawable/mainbckg">
+
+    <!-- Title for the page -->
+    <TextView
+        android:id="@+id/about_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="About AgriLens"
+        android:fontFamily="@font/allan"
+        android:textColor="#F2DF0A"
+        android:textSize="29sp"
+        android:textStyle="bold"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="16dp" />
+
+    <!-- Content about the app -->
+    <TextView
+        android:id="@+id/about_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/allan"
+        android:text="AgriLens is a smart, user friendly mobile application designed to empower farmers, agricultural professionals, and enthusiasts by providing them with quick and accurate crop disease identification. The app harnesses advanced image analysis technology to help users identify plant diseases simply by capturing or uploading a photo. With AgriLens, users gain access to reliable disease information, insights, and actionable recommendations to protect and improve crop health."
+        android:textAlignment="center"
+        android:textColor="#05BD23"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:lineSpacingExtra="8dp" />
+</LinearLayout>

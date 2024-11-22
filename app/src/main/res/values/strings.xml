@@ -1,0 +1,37 @@
+<resources>
+    <!-- App-wide text strings -->
+    <string name="app_name">AgriLens</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="login_button">Login</string>
+    <string name="sign_up_button">Sign Up</string>
+    <string name="sign_in_button">Sign In</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="identify_disease">Identify Disease</string>
+    <string name="about">About</string>
+    <string name="logout">Logout</string>
+    <string name="password_length_error">Password must be at least 6 characters</string>
+    <string name="email_error">Email is required</string>
+    <string name="password_error">Password is required</string>
+    <string name="name_error">Name is required</string>
+    <string name="registration_failed">Registration Failed</string>
+    <string name="login_failed">Login Failed</string>
+    <string name="logged_in_successfully">Logged In Successfully</string>
+    <string name="registered_successfully">Registered Successfully</string>
+    <string name="error_message">Error: %1$s</string>
+    <string name="navigation_drawer_open">Open Drawer</string>
+    <string name="navigation_drawer_close">Close Drawer</string>
+
+    <!-- Navigation Header Strings -->
+    <string name="nav_header_title">Welcome!</string>
+    <string name="nav_header_subtitle">agrilens@example.com</string>
+    <string name="nav_header_desc">Navigation Header</string>
+
+    <!-- Additional Menu Items -->
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="action_settings">Settings</string>
+</resources>

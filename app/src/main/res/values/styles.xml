@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Define a style for the menu items -->
+    <style name="NavMenuItemStyle">
+        <item name="android:textSize">18sp</item>  <!-- Set text size -->
+        <item name="android:textColor">#5AA209</item>  <!-- Set text color -->
+        <item name="android:fontFamily">@font/allan</item> <!-- Set custom font -->
+    </style>
+
+    <style name="CircularShape">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item> <!-- This makes the shape circular -->
+    </style>
+</resources>
+
+
